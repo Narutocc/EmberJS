@@ -4,7 +4,7 @@
     <td><a href="https://github.com/Narutocc/EmberJS/issues/2"/>ember-bootstrap</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/functional-unit/issues/3"/>jQuery实现页面元素延迟消失</td>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/3"/>ember-charts</td>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/4"/>Highcharts——SVG图表</td>
   </tr>
   <tr>
