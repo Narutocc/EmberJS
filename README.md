@@ -4,8 +4,8 @@
     <td><a href="https://github.com/Narutocc/EmberJS/issues/2"/>ember-bootstrap</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/EmberJS/issues/3"/>ember-charts</td>
-   <td><a href="https://github.com/Narutocc/functional-unit/issues/4"/>Highcharts——SVG图表</td>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/3"/>ember-charts</td>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/4"/>ember-highcharts</td>
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/5"/>侧边导航楼梯</td>
