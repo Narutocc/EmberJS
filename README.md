@@ -9,7 +9,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/5"/>ember语法</td>
-   <td><a href="https://github.com/Narutocc/functional-unit/issues/6"/>jq选中元素（table）</td>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/6"/>ember 语法example</td>
   </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/functional-unit/issues/7"/>文件上传</td>
