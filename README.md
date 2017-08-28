@@ -12,7 +12,7 @@
    <td><a href="https://github.com/Narutocc/EmberJS/issues/6"/>ember 语法example</td>
   </tr>
  <tr>
-   <td><a href="https://github.com/Narutocc/EmberJS/issues/7"/>ember HTTP请求</td>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/7"/>ember 模拟HTTP请求</td>
   </tr>
 </table>
 <div>Ember实战</div>
