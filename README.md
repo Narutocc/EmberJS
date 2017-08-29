@@ -16,3 +16,12 @@
   </tr>
 </table>
 <div>Ember实战</div>
+<table>
+  <tr>
+    <td><a href="https://github.com/Narutocc/EmberJS/issues/8"/>Ember API</td>
+    <td><a href="https://github.com/Narutocc/EmberJS/issues/9"/>ember-bootstrap</td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/10"/>ember-charts</td>
+  </tr>
+</table>
