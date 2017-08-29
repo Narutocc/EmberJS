@@ -18,10 +18,10 @@
 <div>Ember实战</div>
 <table>
   <tr>
-    <td><a href="https://github.com/Narutocc/EmberJS/issues/8"/>Ember API</td>
-    <td><a href="https://github.com/Narutocc/EmberJS/issues/9"/>ember-bootstrap</td>
+    <td><a href="https://github.com/Narutocc/EmberJS/issues/8"/>ember 语法</td>
+    <td><a href="https://github.com/Narutocc/EmberJS/issues/9"/>ember http请求</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/EmberJS/issues/10"/>ember-charts</td>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/10"/>ember http请求前端分页</td>
   </tr>
 </table>
