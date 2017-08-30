@@ -23,5 +23,6 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/10"/>ember http请求前端分页</td>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/11"/>ember 搜索筛选</td>
   </tr>
 </table>
