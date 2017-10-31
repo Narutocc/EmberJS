@@ -11,10 +11,14 @@
    <td><a href="https://github.com/Narutocc/EmberJS/issues/5"/>ember命令</td>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/6"/>ember 语法example</td>
   </tr>
- <tr>
+  <tr>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/7"/>ember 模拟HTTP请求</td>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/13"/>computed && property && observes</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/14"/>ember/array</td>
+  </tr>
+ 
 </table>
 <div>Ember实战</div>
 <table>
