@@ -13,6 +13,7 @@
   </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/7"/>ember 模拟HTTP请求</td>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/13"/>computed && property && observes</td>
   </tr>
 </table>
 <div>Ember实战</div>
