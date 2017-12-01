@@ -19,7 +19,9 @@
    <td><a href="https://github.com/Narutocc/EmberJS/issues/14"/>ember/array</td>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/15"/>routing</td>
   </tr>
- 
+  <tr>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/16"/>事件</td>
+  </tr>
 </table>
 <div>Ember实战</div>
 <table>
