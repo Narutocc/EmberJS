@@ -21,6 +21,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/16"/>事件</td>
+   <td><a href="https://github.com/Narutocc/EmberJS/issues/17"/>ember-cp-validations</td>
   </tr>
 </table>
 <div>Ember实战</div>
