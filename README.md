@@ -1,4 +1,5 @@
-
+issues | issues
+-|-|
 [Ember API](https://github.com/Narutocc/EmberJS/issues/1)|[ember-bootstrap](https://github.com/Narutocc/EmberJS/issues/2)
 
 
