@@ -1,8 +1,8 @@
+
+[Ember API](https://github.com/Narutocc/EmberJS/issues/1)|[ember-bootstrap](https://github.com/Narutocc/EmberJS/issues/2)
+
+
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/EmberJS/issues/1"/>Ember API</td>
-    <td><a href="https://github.com/Narutocc/EmberJS/issues/2"/>ember-bootstrap</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/3"/>ember-charts</td>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/4"/>ember-highcharts</td>
